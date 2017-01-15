@@ -1,0 +1,82 @@
+{
+"configs" : [
+  {
+"server" : "jp01-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "jp06-44.ssv7.net",
+"server_port" : 21580,
+"password" : "eTh7YwPC8JNw",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg01-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg02-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg03-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg05-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "us01-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "us02-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "us03-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "hk02-44.ssv7.net",
+"server_port" : 14177,
+"password" : "7ZTKXxHThz7D",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 0,
+"global" : true,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false}
